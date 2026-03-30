@@ -52,4 +52,4 @@ streamlit run app.py
 ```
 
 ## 👩‍💻 Built by
-BMSCE AI/ML Department · Probability & Statistics for ML (23AM3PCPSM)
+BMSCE AI/ML Department · Probability & Statistics for ML 
